@@ -1,6 +1,6 @@
 ---
 title: "Say Goodbye to Fat Models: Introducing Faat, the Ruby Gem That Will Transform Your Rails Code!"
-date: 2023-04-21T15:21:41+01:00
+date: 2015-11-18T15:21:41+01:00
 ---
 
 Introduction:
